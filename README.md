@@ -1,4 +1,4 @@
-<h1>This repository includes some applications created in SwiftUI</h1>
+<h1>👨‍💻 This repository includes some applications created in SwiftUI</h1>
 
 <p>They are intended for those who would like to practice application design in this Apple framework. They are therefore quite simple but highlight certain key concepts necessary for the creation of more ambitious projects. If you need more animations, I have a repository for that as well.</p>
 
