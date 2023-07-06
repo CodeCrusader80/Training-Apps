@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Codecrusader80_cinematic_realistic_cyberpunk_woman_fit_seductiv_60910f17-4dbf-4040-bb02-09c5e2627767.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

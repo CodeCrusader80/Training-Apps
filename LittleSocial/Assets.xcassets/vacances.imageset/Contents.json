@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Codecrusader80_une_femme_de_25_ans_prenant_un_selfie_delle_meme_eb82b054-aba3-4570-8545-e2d03abb93cb.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
