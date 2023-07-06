@@ -17,3 +17,10 @@
 <h4>Preview : </h4>
 <hr>
 <img src="Assets/Simulator Screen Recording - iPhone 14 Pro - 2023-07-01 at 17.14.29.gif" width="300px" height="auto">
+
+<h3>👩‍🦰 Little Social</h3>
+<hr>
+<p>A small application that allows a profile page type view of a person. The latter has a profile photo, a number of subscribers, accounts followed etc... (all this being of course fixed for the moment, but can be developed to follow a real activity of a user on a network). There is also a side scrollview allowing you to select several types of content (again not functional). Then a grid of some content with photos. When clicking on an image, the latter is displayed in full page with a small insert indicating the number of likes, comments, a fictitious and randomly generated publication date as well as a description. All images and content are purely fictional, generated via MidJourney for artwork, my mind and a random name generator</p>
+
+<h4> Preview </h4>
+<img src="Assets/Simulator Screen Recording - iPhone 14 Pro - 2023-07-06 at 21.18.35.gif" width="300px" height="auto">
